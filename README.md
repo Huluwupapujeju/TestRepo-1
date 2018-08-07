@@ -6,9 +6,8 @@ Introduction
 
 VergeML is a **command line based environment** for exploring, training and running state-of-the-Art Machine Learning models. It integrates all necessary tools and services around creating your custom Machine Learning applications.
 
-Sometimes training a new AI is as easy as typing:
-    
-    ml train
+The leading principle of VergeML is "easy without tradeoffs". We want to make Machine Learning accessible to everyone, while at the same time providing a complete toolkit for Machine Learning professionals. 
+
 
 Features
 ============
