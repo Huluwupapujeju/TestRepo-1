@@ -47,10 +47,11 @@ Train your models, manage your hyperparameters through the command line or via a
 
 ### Plug-In System ###
 
-
+A text bla bla bla  
 
 ### REST Interface ###
 
+Another text bla bla bla
 
 
 Get Started
