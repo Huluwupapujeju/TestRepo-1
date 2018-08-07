@@ -11,7 +11,7 @@ The leading principle of VergeML is "**easy without tradeoffs**". We aim at maki
 Features
 ============
 
-![VergeML](/Images/term.png "VergeML")
+![VergeML](/Images/term.png =691x "VergeML")
 
 VergeML is currently handling all tasks for running image based ML models and we are currently on our beta stage (VergeML_v0.1). It is under active development and maintenance! We operate on continuous integration, and all releases are tagged in git. If you'd like to contribute, see CONTRIBUTING! (link)
 
