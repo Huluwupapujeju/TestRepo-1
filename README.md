@@ -77,6 +77,6 @@ Stay in touch
 
 License
 ============
-[MIT](/LICENSE) 
+[MIT](/LICENSE.md) 
 
 Copyright (c) 2018-present, Markus Ecker & Camillo Pachmann
