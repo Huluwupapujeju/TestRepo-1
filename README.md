@@ -1,7 +1,4 @@
-# TestRepo
-Machine Learning environment to explore, train and run state-of-the-art ML models.
-
-![VergeML](\Images\Header.png "VergeML")
+![VergeML](Header.png "VergeML")
 
 
 Introduction
