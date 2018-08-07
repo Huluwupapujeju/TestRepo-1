@@ -14,7 +14,7 @@ Features
 <img src="Images/term.png" alt="terminal" width="691px"/>
 
 
-VergeML is currently handling all tasks for running image based ML models and we are currently on our beta stage (VergeML_v0.1). It is under active development and maintenance! We operate on continuous integration, and all releases are tagged in git. If you'd like to contribute, see CONTRIBUTING! (link)
+VergeML is currently handling all tasks for running image based ML models and we are currently on our beta stage (VergeML_v0.1). It is under active development and maintenance! We operate on continuous integration, and all releases are tagged in git. If you'd like to contribute, see [Contributing](Documentation/Contribution/Contributing.md)
 
 You will need Python 3.6 (and Cuda 9.1 & cuDNN 7.1 if you want GPU support)
 
